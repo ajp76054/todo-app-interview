@@ -5,7 +5,7 @@
 
 ### Installed Libraries
 
-For ease of use we have installed Bootstrap, Angular Materials, and NG Bootstrap.
+For ease of use we have installed Bootstrap, and Angular Materials.
 
 # Routes
 
