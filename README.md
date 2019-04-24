@@ -1,5 +1,6 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="drawing" width="200"/> Angular TODO Interview Application
-[logo]:https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg
+<img style="display: block" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="drawing" width="350"/> 
+# Angular TODO Interview Application
+
 
 ### Installed Libraries
 
