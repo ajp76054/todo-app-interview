@@ -1,4 +1,8 @@
-# angular-n2y1zg
+[# Angular TODO Interview Application](https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg)
+
+### Installed Libraries
+
+For ease of use we have installed Bootstrap, Angular Materials, and NG Bootstrap.
 
 # Routes
 
