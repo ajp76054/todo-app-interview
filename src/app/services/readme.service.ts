@@ -10,7 +10,7 @@ export class ReadmeService {
   }
 
   getReadme() {
-    return this._http.get('https://raw.githubusercontent.com/ajp76054/todo-app-interview/master/directions.md', {responseType: 'text'})
+    return this._http.get('https://raw.githubusercontent.com/ajp76054/todo-app-interview/master/DIRECTIONS.md', {responseType: 'text'})
     
   }
 }
