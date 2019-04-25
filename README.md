@@ -21,4 +21,15 @@ API URL is located in the `variables.ts` file and is already imported into the `
  - DELETE	/todos/1
 
 
+ ## Help Links
+
+ #### Bootstrap - https://getbootstrap.com/docs/4.3/getting-started/introduction/
+
+ #### Angular Materials - https://material.angular.io/components/categories
+
+#### Font Awesome - https://fontawesome.com/icons?from=io
+
+#### Angular - https://angular.io/docs
+
+
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-n2y1zg)
