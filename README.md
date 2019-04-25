@@ -22,8 +22,34 @@ API URL is located in the `variables.ts` file and is already imported into the `
 
 ## Directions
 
-- Create an interface to define the types for the attributes each todo that the API returns
-  - Use the todos service in the services folder to create methods for basic CRUD functions for our todos. (Reference the API list above as to what CRUD methods you should cover)
+### Service:
+
+- Use the  TodoService to GET list of TODOs
+- Use the  TodoService to GET a single TODO (Optional but feel free to show us your wow factor)
+- Use the  TodoService to POST a new TODO.
+- Use the  TodoService to PUT a change to a TODO.
+- Use the  TodoService to PATCH a TODO.
+- Use the  TodoService to DELETE a TODO.
+
+- Using observable patterns 
+
+### Components:
+
+Create a component to display a list of all the todos
+
+- It should display all todos
+- It should allow you to add
+- It should allow you to remove todos
+- It should allow you to change status of a todo
+- It should allow you to change the name of a todo (Optional but again show us what you got)
+
+### Create an interface for the todos
+
+- id
+- name
+- status
+- createdAt
+- updatedAt
 
  ## Help Links
 
