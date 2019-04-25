@@ -24,6 +24,8 @@ API URL is located in the `variables.ts` file and is already imported into the `
 
 ### Service:
 
+A TodoService does already exist under the services folder for you to use however you may feel free to create your own.
+
 - Use the  TodoService to GET list of TODOs
 - Use the  TodoService to GET a single TODO (Optional but feel free to show us your wow factor)
 - Use the  TodoService to POST a new TODO.
