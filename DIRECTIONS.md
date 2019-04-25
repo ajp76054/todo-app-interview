@@ -4,9 +4,9 @@ For ease of use we have installed Bootstrap, and Angular Materials.
 
 ### Routes
 
-##### API URL - https://jsonplaceholder.typicode.com
-
 API URL is located in the `variables.ts` file and is already imported into the `todos.service.ts` file for you to consume.  The API accepts any of the following request types in the list.
+
+#### API URL - https://jsonplaceholder.typicode.com
 
  - GET	/todos
  - GET	/todos/1
