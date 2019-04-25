@@ -23,7 +23,7 @@ API URL is located in the `variables.ts` file and is already imported into the `
 ## Directions
 
 - Create an interface to define the types for the attributes each todo that the API returns
-- Use the todos service in the services folder to create methods for basic CRUD functions for our todos. (Reference the API list above as to what CRUD methods you should cover)
+  - Use the todos service in the services folder to create methods for basic CRUD functions for our todos. (Reference the API list above as to what CRUD methods you should cover)
 
  ## Help Links
 
