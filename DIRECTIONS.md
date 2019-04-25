@@ -1,3 +1,7 @@
+Before getting started make sure you are logged into stackblitz.  If you do not already have a GitHub account please create one for the purpose of this project. Signup is free and its a great tool to have as a developer.  After signing in with your GitHub account click on the `Fork` link at the top of the screen.  This will create a copy of the project for you under your account this way you can make and save changes.  Once you are done with your work click share and copy the first link for the editor url and send this to us.
+
+Once you are done reading this page change your url from `/directions` to `/todos`
+
 ### Installed Libraries
 
 For ease of use we have installed Bootstrap, and Angular Materials.
