@@ -2,6 +2,8 @@ Before getting started make sure you are logged into stackblitz.  If you do not 
 
 Once you are done reading this page change your url from `/directions` to `/todos`
 
+<button routerLink="/todos">TODOs</button>
+
 ### Installed Libraries
 
 For ease of use we have installed Bootstrap, and Angular Materials.
