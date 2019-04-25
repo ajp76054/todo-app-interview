@@ -21,7 +21,6 @@
             "assets": [
               "src/favicon.ico",
               "src/assets",
-              { "glob": "README.md", "input": "./", "output": "./assets/" }
             ],
             "styles": [
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
