@@ -2,7 +2,7 @@ Before getting started make sure you are logged into stackblitz.  If you do not 
 
 Once you are done reading this page change your url from `/directions` to `/todos`
 
-<a class="btn" href="/todo">TODOs</a>
+<a class="btn btn-primary" href="/todo">TODOs</a>
 
 ### Installed Libraries
 
