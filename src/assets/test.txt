@@ -7,7 +7,7 @@
 
 For ease of use we have installed Bootstrap, and Angular Materials.
 
-### Routes
+## Routes
 
 #### API URL - https://jsonplaceholder.typicode.com
 

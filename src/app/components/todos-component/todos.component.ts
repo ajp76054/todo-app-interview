@@ -7,5 +7,7 @@ import { Component } from '@angular/core';
   host: {['class']: 'col-12'}
 })
 export class TodoComponent {
-
+  constructor() {
+   
+  }
 }

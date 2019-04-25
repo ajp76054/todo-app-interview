@@ -7,10 +7,12 @@ import { HttpClientModule } from '@angular/common/http';
 import { MaterialArray } from '../variables';
 import { AppRoutingModule } from './routing.app.module';
 import { TodoComponent } from './components/todos-component/todos.component';
+import { MarkdownModule } from 'ngx-markdown';
+import { ReadmeComponent } from './components/readme/readme.component';
 
 @NgModule({
-  imports:      [ BrowserModule, FormsModule, BrowserAnimationsModule, HttpClientModule, AppRoutingModule, ...MaterialArray],
-  declarations: [ AppComponent, TodoComponent ],
+  imports:      [ BrowserModule, FormsModule, BrowserAnimationsModule, HttpClientModule, AppRoutingModule, ...MaterialArray, MarkdownModule.forRoot()],
+  declarations: [ AppComponent, TodoComponent, ReadmeComponent ],
   bootstrap:    [ AppComponent ]
 })
 export class AppModule { }

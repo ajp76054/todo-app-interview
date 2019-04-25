@@ -2,9 +2,11 @@ import { NgModule, ModuleWithProviders } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { CustomPreload } from './app-preload';
 import { TodoComponent } from './components/todos-component/todos.component';
+import { ReadmeComponent } from './components/readme/readme.component';
 
 export const routes: Routes = [
-  { path: '', redirectTo: '/todos', pathMatch: 'full' },
+  { path: '', redirectTo: '/directions', pathMatch: 'full' },
+  { path: 'directions', component: ReadmeComponent},
   {
     path: 'todos',
     component: TodoComponent
