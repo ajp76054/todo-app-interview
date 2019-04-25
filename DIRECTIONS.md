@@ -4,7 +4,7 @@ Once you are done reading this page change your url from `/directions` to `/todo
 
 \- OR - 
 
-<a class="btn btn-primary" href="/todo">Go to TODOs</a>
+<a class="btn btn-primary" href="/todos">Go to TODOs</a>
 
 ### Installed Libraries
 
